@@ -1,0 +1,8 @@
+name    'jalli-unzip'
+version '0.0.1'
+source 'http://github.com/jalli/puppet-module-unzip'
+author 'jalli'
+license 'GNU General Public License, Version 3.0'
+summary 'Setup unzip'
+description 'Sets up unzip command'
+project_page 'http://github.com/jalli/puppet-module-unzip'
